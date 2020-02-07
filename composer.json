@@ -1,5 +1,5 @@
 {
-  "name": "hiddeco/laravel-transip",
+  "name": "imagewize/laravel-transip",
   "description": "Laravel TransIP is a bridge for the TransIP SOAP client and Laravel 5.",
   "keywords": ["laravel", "framework", "transip", "api", "soap", "bridge"],
   "license": "MIT",
